@@ -1,4 +1,5 @@
 # mySQL Instagram_clone
+### Hey, its time to learn `SQl`
 
 ![Insatgram](https://cdn-icons-png.flaticon.com/128/1384/1384063.png)
 
