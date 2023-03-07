@@ -1,6 +1,6 @@
 # mySQL Instagram_clone
 
-![Insatgram]([[https://pbs.twimg.com/profile_images/1526231349354303489/3Bg-2ZsT_400x400.jpg](https://www.trustedreviews.com/wp-content/uploads/sites/54/2019/09/delete-instagram.jpg)](https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png))
+![Insatgram](https://feeds.abplive.com/onecms/images/uploaded-images/2022/12/01/da81c5d55ed9ede1b2c70740fdde47d81669885129385619_original.jpg?impolicy=abp_cdn&imwidth=650)
 
 mySQL project which is a cloned mimic version of Instagram database. It is used to perform data analysis for real world business related questions and scenarios such as:
 * find ot the rewarding system for the loyal users
