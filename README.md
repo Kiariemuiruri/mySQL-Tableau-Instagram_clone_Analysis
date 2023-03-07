@@ -8,8 +8,11 @@ mySQL project which is a cloned mimic version of Instagram database. It is used 
 * launching campaign to target the weekdays with the most user registrations
 * encouraging inactive users to log in back to the system
 
+We can also automatically record unfollows in the unfollows table using a SQL Trigger.
+
 ### Table of contents
 1. [Context](https://github.com/Kiariemuiruri/mySQL-Instagram_clone/blob/main/README.md)
 2. [Creating database](https://github.com/Kiariemuiruri/mySQL-Instagram_clone/blob/main/ig_clone.sql)
 3. [Analyzing the instagram data](https://github.com/Kiariemuiruri/mySQL-Instagram_clone/blob/main/instagram%20clone%20project.sql)
+4. [Unfollows trigger](https://github.com/Kiariemuiruri/mySQL-Instagram_clone/blob/main/Unfollow%20Trigger.sql)
 
